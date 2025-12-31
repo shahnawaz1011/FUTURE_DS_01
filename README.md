@@ -16,29 +16,28 @@ Creating Core Metrics (DAX Measures)\
 Created Total Sales, Total Quantity, Total Orders, and Total Customers measures\
 These KPIs helped summarize the business performance\
 
-𝗦𝘁𝗲𝗽 3: Best-Selling Products Analysis
+𝗦𝘁𝗲𝗽 3: 
 
-Identified top 10 best-selling products by quantity
+Best-Selling Products Analysis\
+Identified top 10 best-selling products by quantity\
+Also analyzed high-revenue products with lower sales volume\
 
-Also analyzed high-revenue products with lower sales volume
+𝗦𝘁𝗲𝗽 4: 
 
-𝗦𝘁𝗲𝗽 4: Sales Trend Analysis
+Sales Trend Analysis\
+Built a monthly sales trend line chart\
+Analyzed seasonality and peak months\
 
-Built a monthly sales trend line chart
+𝗦𝘁𝗲𝗽 5: 
 
-Analyzed seasonality and peak months
+Created Tree Maps for revenue distribution by product\
+Built Donut Charts to show revenue contribution by country\
+Identified products that drive most revenue vs high-volume products\
 
-𝗦𝘁𝗲𝗽 5: Revenue Contribution & Product Insights
+𝗦𝘁𝗲𝗽 6: 
 
-Created Tree Maps for revenue distribution by product
-
-Built Donut Charts to show revenue contribution by country
-
-Identified products that drive most revenue vs high-volume products
-
-𝗦𝘁𝗲𝗽 6: Interactivity with Slicers
-
-Added Country, Year, and Month slicers
+Interactivity with Slicers\
+Added Country, Year, and Month slicers\
 
 📈 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 ➤
 1. WHITE HANGING T-LIGHT HOLDER is the best-selling product by quantity and also contributes significantly to total revenue (High demand indicates it is a mass-market product rather than a niche item.)
