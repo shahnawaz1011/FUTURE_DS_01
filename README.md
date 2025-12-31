@@ -2,6 +2,7 @@
 
 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝗺𝘆 𝗹𝗮𝘁𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁! 📊
 As part of my Data Analyst internship at hashtag#FutureInterns ,
+
 Here’s what I did step by step:
 
 𝗦𝘁𝗲𝗽 1: 
@@ -39,6 +40,8 @@ Identified products that drive most revenue vs high-volume products\
 
 Interactivity with Slicers\
 Added Country, Year, and Month slicers\
+
+---
 
 📈 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 ➤
 1. WHITE HANGING T-LIGHT HOLDER is the best-selling product by quantity and also contributes significantly to total revenue (High demand indicates it is a mass-market product rather than a niche item.)
