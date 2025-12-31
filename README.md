@@ -1,7 +1,45 @@
 # FUTURE_DS_01 
 
 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝗺𝘆 𝗹𝗮𝘁𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁! 📊
-As part of my Data Analyst internship at hashtag#FutureInterns , I worked on an E-commerce Sales Analysis project using Power BI, where I analyzed transactional data to uncover meaningful business insights. 
+As part of my Data Analyst internship at hashtag#FutureInterns ,Here’s what I did step by step:
+
+𝗦𝘁𝗲𝗽 1: Data Cleaning & Transformation
+
+Removed invalid entries such as negative or zero quantities
+
+Handled missing values in key columns (Customer ID, Sales, Product Name)
+
+Prepared the data for analysis using Power Query
+
+𝗦𝘁𝗲𝗽 2: Creating Core Metrics (DAX Measures)
+
+Created Total Sales, Total Quantity, Total Orders, and Total Customers measures
+
+These KPIs helped summarize the business performance
+
+𝗦𝘁𝗲𝗽 3: Best-Selling Products Analysis
+
+Identified top 10 best-selling products by quantity
+
+Also analyzed high-revenue products with lower sales volume
+
+𝗦𝘁𝗲𝗽 4: Sales Trend Analysis
+
+Built a monthly sales trend line chart
+
+Analyzed seasonality and peak months
+
+𝗦𝘁𝗲𝗽 5: Revenue Contribution & Product Insights
+
+Created Tree Maps for revenue distribution by product
+
+Built Donut Charts to show revenue contribution by country
+
+Identified products that drive most revenue vs high-volume products
+
+𝗦𝘁𝗲𝗽 6: Interactivity with Slicers
+
+Added Country, Year, and Month slicers
 
 📈 𝗞𝗲𝘆 𝗜𝗻𝘀𝗶𝗴𝗵𝘁𝘀 ➤
 1. WHITE HANGING T-LIGHT HOLDER is the best-selling product by quantity and also contributes significantly to total revenue (High demand indicates it is a mass-market product rather than a niche item.)
