@@ -32,4 +32,4 @@ Built KPIs see in the first dashboard and also added country and months to see t
 Best-selling products, sales trends, and high-revenue categories this three are given by future interns task to analyze this so i will created three menu type options to Navigate that section so easily anyone will see that 3 categories analysis which is visualized by me hashtag#ShahanawajNadaf
 
 Show what the dashboard looks like. - ![Alt text](https://github.com/shahnawaz1011/repo/assets/page1MAIN.png)
-Example: ![Dashboard Preview]([https://github.com/the-mansi-goel/Ski-dashboard/blob/main/Snapshot%20of%20the%20Dahbaord.png](https://github.com/shahnawaz1011/FUTURE_DS_01/blob/76b491d3f4dcba6ab213b0fa695a0d26a8059149/page%201%20MAIN.png))
+Example: ![Dashboard Preview](https://github.com/shahnawaz1011/FUTURE_DS_01/blob/main/page%201%20MAIN.png)
