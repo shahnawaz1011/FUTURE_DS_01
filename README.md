@@ -4,7 +4,7 @@
 As part of my Data Analyst internship at hashtag#FutureInterns ,Here’s what I did step by step:
 
 𝗦𝘁𝗲𝗽 1: 
-Data Cleaning & Transformation
+Data Cleaning & Transformation \
 Removed invalid entries such as negative or zero quantities
 Handled missing values in key columns (Customer ID, Sales, Product Name)
 Prepared the data for analysis using Power Query
