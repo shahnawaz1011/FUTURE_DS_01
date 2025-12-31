@@ -3,12 +3,10 @@
 𝗘𝘅𝗰𝗶𝘁𝗲𝗱 𝘁𝗼 𝘀𝗵𝗮𝗿𝗲 𝗺𝘆 𝗹𝗮𝘁𝗲𝘀𝘁 𝗗𝗮𝘁𝗮 𝗔𝗻𝗮𝗹𝘆𝘁𝗶𝗰𝘀 𝗽𝗿𝗼𝗷𝗲𝗰𝘁! 📊
 As part of my Data Analyst internship at hashtag#FutureInterns ,Here’s what I did step by step:
 
-𝗦𝘁𝗲𝗽 1: Data Cleaning & Transformation
-
+𝗦𝘁𝗲𝗽 1: 
+Data Cleaning & Transformation
 Removed invalid entries such as negative or zero quantities
-
 Handled missing values in key columns (Customer ID, Sales, Product Name)
-
 Prepared the data for analysis using Power Query
 
 𝗦𝘁𝗲𝗽 2: Creating Core Metrics (DAX Measures)
