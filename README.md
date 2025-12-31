@@ -31,5 +31,5 @@ Data Visualization & Business Insight Analysis
 Built KPIs see in the first dashboard and also added country and months to see the Total Orders, Customers, Quantity, Sales just clicking the List Slicer.
 Best-selling products, sales trends, and high-revenue categories this three are given by future interns task to analyze this so i will created three menu type options to Navigate that section so easily anyone will see that 3 categories analysis which is visualized by me hashtag#ShahanawajNadaf
 
-Show what the dashboard looks like. - ![Alt text](https://github.com/shahnawaz1011/repo/assets/page1MAIN.png)
+the dashboard looks like.
 Example: ![Dashboard Preview](https://github.com/shahnawaz1011/FUTURE_DS_01/blob/main/page%201%20MAIN.png)
